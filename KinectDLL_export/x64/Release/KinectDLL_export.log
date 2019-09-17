@@ -1,0 +1,8 @@
+﻿  KinectDLL.cpp
+     Создается библиотека C:\Users\iRU\Documents\Unreal Projects\KinectDLL_export\x64\Release\KinectDLL_export.lib и объект C:\Users\iRU\Documents\Unreal Projects\KinectDLL_export\x64\Release\KinectDLL_export.exp
+  Создание кода
+  3 of 17 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KinectDLL_export.vcxproj -> C:\Users\iRU\Documents\Unreal Projects\KinectDLL_export\x64\Release\KinectDLL_export.dll
